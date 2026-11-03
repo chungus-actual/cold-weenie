@@ -6,7 +6,7 @@
 
 **A launcher for retro games on Android TV.**
 
-Your games. Your emulators. Five rooms. Stats and Search.
+Your games. Your emulators. Your safe space. Stats and Search.
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 ![Android 9+](https://img.shields.io/badge/Android%20TV-9%2B-3DDC84?logo=android&logoColor=white)
