@@ -2,21 +2,18 @@
 
 # Cold Weenie
 
-**A couch launcher for retro games on Android TV.**
+**A launcher for retro games on Android TV.**
 
-Your games on shelves under an old TV in a rendered room, playing their attract loops on the tube while the room's
-light follows the picture. Five rooms, Plex-style rows, a dial for picking at random, resume where you left off, and
-a stats page that knows exactly how long you've spent on one game. It starts RetroArch, Dolphin, Flycast and PPSSPP
-for you. Bring your own games.
+Your games. Your emulators. Five rooms. Stats and Search.
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 ![Android 9+](https://img.shields.io/badge/Android%20TV-9%2B-3DDC84?logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9-7F52FF?logo=kotlin&logoColor=white)
 ![No dependencies](https://img.shields.io/badge/dependencies-none-lightgrey)
 
-<img src="docs/img/tour.webp" width="800" alt="The same game in each of the five rooms: Basement, Neon, Rain, Grid and Mall" />
+<img src="docs/img/tour.webp" width="800" alt="a tour of sets" />
 
-<sub>Captured on an NVIDIA SHIELD TV Pro. Every game in these pictures is made up, and so are the boxes.</sub>
+<sub>I bet you were expecting interesting sub text.</sub>
 
 </div>
 
