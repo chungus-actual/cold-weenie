@@ -19,30 +19,8 @@ Your games. Your emulators. Five rooms. Stats and Search.
 
 ---
 
-[Rooms](#rooms) · [Features](#features) · [Screens](#screens) · [Install](#install) · [Your games](#your-games) ·
+[Screens](#screens) · [Features](#features) · [Install](#install) · [Your games](#your-games) ·
 [Controls](#controls) · [Troubleshooting](#troubleshooting) · [Build](#build) · [Credits](#credits)
-
-## Rooms
-
-| | |
-|:---:|:---:|
-| <img src="docs/img/screens/room_basement.jpg" width="100%" alt="Basement" /><br>**Basement** | <img src="docs/img/screens/room_neon.jpg" width="100%" alt="Neon" /><br>**Neon** |
-| <img src="docs/img/screens/room_rain.jpg" width="100%" alt="Rain" /><br>**Rain** | <img src="docs/img/screens/room_grid.jpg" width="100%" alt="Grid" /><br>**Grid** |
-| <img src="docs/img/screens/room_mall.jpg" width="100%" alt="Mall" /><br>**Mall** | |
-
-## Features
-
-| | |
-|---|---|
-| **Rooms** | A different one each start. The focused game's video plays on the TV and lights the room |
-| **Rows** | Tonight, Keep playing, Because you played, Favorites, Couch night, Most played, Never touched, consoles, genres |
-| **Play random** | A dial, or Y from anywhere |
-| **Resume** | Start + Select saves and comes back |
-| **Two players** | Turn on a second pad, get a row of two-player games |
-| **Stats** | Time on screen, streaks, sessions, a 30-day chart |
-| **Search** | The keyboard only offers letters that lead to a game |
-| **Shelves** | Favorites, plus home, console page or back room for any game |
-| **Secrets** | A couple |
 
 ## Screens
 
@@ -60,6 +38,20 @@ Your games. Your emulators. Five rooms. Stats and Search.
   <source media="(prefers-color-scheme: dark)" srcset="docs/img/diagrams/library-dark.svg">
   <img src="docs/img/diagrams/library-light.svg" alt="From the folder to a game and back">
 </picture>
+
+## Features
+
+| | |
+|---|---|
+| **Rooms** | A different one each start. The focused game's video plays on the TV and lights the room |
+| **Rows** | Tonight, Keep playing, Because you played, Favorites, Couch night, Most played, Never touched, consoles, genres |
+| **Play random** | A dial, or Y from anywhere |
+| **Resume** | Start + Select saves and comes back |
+| **Two players** | Turn on a second pad, get a row of two-player games |
+| **Stats** | Time on screen, streaks, sessions, a 30-day chart |
+| **Search** | The keyboard only offers letters that lead to a game |
+| **Shelves** | Favorites, plus home, console page or back room for any game |
+| **Secrets** | A couple |
 
 ## Install
 
