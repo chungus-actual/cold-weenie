@@ -12,13 +12,14 @@
     <path d="M226 510 Q500 420 774 510" stroke="#d9542b" stroke-width="192"/>
     <path d="M398 420 Q500 398 602 420" stroke="#f6a27c" stroke-width="22"/>
 
-    <!-- d-pad, square to the viewer, its sides showing below -->
+    <!-- d-pad, square to the viewer, its sides showing down and to the right -->
     <g transform="translate(297 503) rotate(45)">
-      <path d="M-27 -80 h54 v53 h53 v54 h-53 v53 h-54 v-53 h-53 v-54 h53 z" fill="#150a26" transform="translate(0 14)"/>
+      <path d="M-27 -80 L27 -80 L38 -69 L-16 -69 z M38 -69 L38 -16 L27 -27 L27 -80 z M27 -27 L80 -27 L91 -16 L38 -16 z M91 -16 L91 38 L80 27 L80 -27 z M91 38 L38 38 L27 27 L80 27 z M38 38 L38 91 L27 80 L27 27 z M38 91 L-16 91 L-27 80 L27 80 z M-27 80 L-27 27 L-16 38 L-16 91 z M-16 38 L-69 38 L-80 27 L-27 27 z M-80 27 L-80 -27 L-69 -16 L-69 38 z M-80 -27 L-27 -27 L-16 -16 L-69 -16 z M-27 -27 L-27 -80 L-16 -69 L-16 -16 z" fill="#150a26"/>
       <path d="M-27 -80 h54 v53 h53 v54 h-53 v53 h-54 v-53 h-53 v-54 h53 z" fill="#3a2360"/>
     </g>
 
-    <!-- buttons, along the weenie -->
+    <!-- buttons, along the weenie, the same way up -->
+    <path d="M640 488 v15.6 M736 510 v15.6" stroke="#b39f72" stroke-width="76"/>
     <circle cx="640" cy="488" r="38" fill="#ede3cc"/>
     <circle cx="736" cy="510" r="38" fill="#ede3cc"/>
   </g>
