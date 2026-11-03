@@ -12,8 +12,16 @@
     <path d="M226 510 Q500 420 774 510" stroke="#d9542b" stroke-width="192"/>
     <path d="M398 420 Q500 398 602 420" stroke="#f6a27c" stroke-width="22"/>
 
-    <!-- d-pad, square to the viewer -->
-    <path transform="translate(297 503) rotate(45)" fill="#2a1747" d="M-27 -80 h54 v53 h53 v54 h-53 v53 h-54 v-53 h-53 v-54 h53 z"/>
+    <!-- d-pad, square to the viewer: a well in the skin, the sides, the top catching the light -->
+    <g transform="translate(297 503) rotate(45)">
+      <path d="M-27 -80 h54 v53 h53 v54 h-53 v53 h-54 v-53 h-53 v-54 h53 z" fill="#8f2f16" stroke="#8f2f16" stroke-width="16" stroke-linejoin="round"/>
+      <path d="M-27 -80 h54 v53 h53 v54 h-53 v53 h-54 v-53 h-53 v-54 h53 z" fill="#120820" transform="translate(0 13)"/>
+      <path d="M-27 -80 h54 v53 h53 v54 h-53 v53 h-54 v-53 h-53 v-54 h53 z" fill="#3a2360"/>
+      <path d="M-27 -80 h54 v7 h-54 z M-80 -27 h53 v7 h-53 z M27 -27 h53 v7 h-53 z" fill="#6a4a9e"/>
+      <path d="M-27 -73 v46 h7 v-46 z M-80 -20 v47 h7 v-47 z" fill="#533a80"/>
+      <circle cx="0" cy="0" r="17" fill="#2a1747"/>
+      <path d="M-12 -12 A17 17 0 0 1 12 -12 A22 22 0 0 0 -12 -12 z" fill="#120820"/>
+    </g>
 
     <!-- buttons, along the weenie -->
     <circle cx="640" cy="488" r="38" fill="#ede3cc"/>
