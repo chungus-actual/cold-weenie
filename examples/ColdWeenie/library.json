@@ -1,0 +1,27 @@
+{
+  "snes/Street Farter II (USA)": {
+    "t": "Street Farter II",
+    "y": "1992",
+    "m": "Crapcom",
+    "g": "Fighting",
+    "p": 2,
+    "sh": "pick"
+  },
+  "ps1/Final Fantasy Football (USA)": {
+    "t": "Final Fantasy Football",
+    "y": "1997",
+    "m": "Square Root",
+    "g": "RPGs",
+    "p": 4,
+    "sh": "pick"
+  },
+  "arcade/mwombat": {
+    "t": "Mortal Wombat",
+    "y": "1992",
+    "m": "Marsupial Games",
+    "g": "Fighting",
+    "p": 2,
+    "sh": "pick",
+    "c": "fbneo"
+  }
+}

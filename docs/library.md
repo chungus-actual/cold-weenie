@@ -5,6 +5,8 @@ HyperSpin layout, named `Hyperspin`, works too. Bring your own games: none come 
 
 ## Layout
 
+A template to copy is in [examples/](../examples).
+
 ```
 Games/
   Roms/

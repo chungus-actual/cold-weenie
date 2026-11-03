@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000" role="img" aria-label="Cold Weenie">
+  <title>Cold Weenie</title>
+
+  <g transform="translate(-14 -14)">
+  <!-- the emblem, 80% of the weenie, behind it -->
+  <circle cx="500" cy="500" r="432" fill="#ede3cc"/>
+  <circle cx="500" cy="500" r="398" fill="#2a1747"/>
+
+  <!-- the weenie, corner to corner, ends past the emblem -->
+  <g transform="translate(500 500) rotate(-45) scale(1.35) translate(-500 -496)" fill="none" stroke-linecap="round">
+    <path d="M218 530 Q500 440 782 530" stroke="#a93a1c" stroke-width="236"/>
+    <path d="M226 510 Q500 420 774 510" stroke="#d9542b" stroke-width="192"/>
+    <path d="M398 420 Q500 398 602 420" stroke="#f6a27c" stroke-width="22"/>
+
+    <!-- d-pad, square to the viewer -->
+    <path transform="translate(297 503) rotate(45)" fill="#2a1747" d="M-27 -80 h54 v53 h53 v54 h-53 v53 h-54 v-53 h-53 v-54 h53 z"/>
+
+    <!-- buttons, along the weenie -->
+    <circle cx="640" cy="488" r="38" fill="#ede3cc"/>
+    <circle cx="736" cy="510" r="38" fill="#ede3cc"/>
+  </g>
+  </g>
+</svg>

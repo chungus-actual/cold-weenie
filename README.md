@@ -87,7 +87,7 @@ Games/                        top of a drive, or /sdcard/Games
 python -I tools/fetch_art.py E:/Games go       # boxes and logos from libretro
 ```
 
-A `Hyperspin` folder works too. System names and the optional catalogue: [docs/library.md](docs/library.md).
+Template to copy: [examples/](examples). A `Hyperspin` folder works too. System names and the optional catalogue: [docs/library.md](docs/library.md).
 
 ## Controls
 
