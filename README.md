@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="render/logo.svg" width="200" alt="Cold Weenie logo" />
+
 # Cold Weenie
 
 **A launcher for retro games on Android TV.**
