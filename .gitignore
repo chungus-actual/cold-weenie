@@ -1,0 +1,14 @@
+backup-*/
+dl/
+shots/
+.gradle/
+build/
+app/build/
+local.properties
+tools/.volume
+ra/retroarch.*
+*.apk
+render/out/
+art/
+private/shots/out/
+private/shots/grabs/

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="372" viewBox="0 0 960 372" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" role="img">
+<defs>
+<marker id="arrow-base" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1.2 L9,5 L1,8.8 Q2.6,5 1,1.2 Z" fill="#8c959f"/></marker>
+<marker id="arrow-teal" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1.2 L9,5 L1,8.8 Q2.6,5 1,1.2 Z" fill="#0f8f88"/></marker>
+<marker id="arrow-amber" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1.2 L9,5 L1,8.8 Q2.6,5 1,1.2 Z" fill="#b26b00"/></marker>
+<marker id="arrow-violet" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1.2 L9,5 L1,8.8 Q2.6,5 1,1.2 Z" fill="#7a4fd6"/></marker>
+<marker id="arrow-rose" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1.2 L9,5 L1,8.8 Q2.6,5 1,1.2 Z" fill="#c4325e"/></marker>
+<filter id="lift" x="-10%" y="-10%" width="120%" height="140%"><feDropShadow dx="0" dy="1.5" stdDeviation="2" flood-color="#1f2328" flood-opacity="0.1"/></filter>
+</defs>
+<rect x="520" y="16" width="424" height="340" rx="14" fill="#eff2f5" fill-opacity="0.7"/>
+<text x="536" y="38" font-size="11.5" font-weight="700" letter-spacing="1.4" fill="#818b98">PLAYS AND COMES BACK</text>
+<rect x="268" y="16" width="232" height="340" rx="14" fill="#eff2f5" fill-opacity="0.7"/>
+<text x="284" y="38" font-size="11.5" font-weight="700" letter-spacing="1.4" fill="#818b98">COLD WEENIE</text>
+<rect x="16" y="16" width="232" height="340" rx="14" fill="#eff2f5" fill-opacity="0.7"/>
+<text x="32" y="38" font-size="11.5" font-weight="700" letter-spacing="1.4" fill="#818b98">ON THE DRIVE</text>
+<path d="M228.0,89.0 C256.0,89.0 260.0,101.0 286.0,101.0" fill="none" stroke="#8c959f" stroke-width="1.6" marker-end="url(#arrow-base)"/>
+<path d="M228.0,179.0 C263.3,179.0 252.7,128.6 286.0,128.6" fill="none" stroke="#8c959f" stroke-width="1.6" marker-end="url(#arrow-base)"/>
+<path d="M228.0,269.0 C285.5,269.0 230.5,156.2 286.0,156.2" fill="none" stroke="#8c959f" stroke-width="1.6" marker-end="url(#arrow-base)"/>
+<path d="M384.0,170.0 C384.0,198.0 384.0,198.0 384.0,224.0" fill="none" stroke="#8c959f" stroke-width="1.6" marker-end="url(#arrow-base)"/>
+<path d="M480.0,251.9 C552.2,251.9 467.8,103.0 538.0,103.0" fill="none" stroke="#8c959f" stroke-width="1.6" marker-end="url(#arrow-base)"/>
+<path d="M480.0,274.1 C508.9,274.1 511.1,251.0 538.0,251.0" fill="none" stroke="#8c959f" stroke-width="1.6" marker-end="url(#arrow-base)"/>
+<path d="M720.0,103.0 C748.0,103.0 722.0,103.0 748.0,103.0" fill="none" stroke="#8c959f" stroke-width="1.6" marker-end="url(#arrow-base)"/>
+<path d="M720.0,125.2 C771.7,125.2 698.3,236.2 748.0,236.2" fill="none" stroke="#8c959f" stroke-width="1.6" marker-end="url(#arrow-base)"/>
+<path d="M720.0,251.0 C748.0,251.0 722.0,262.1 748.0,262.1" fill="none" stroke="#8c959f" stroke-width="1.6" marker-end="url(#arrow-base)"/>
+<g filter="url(#lift)"><rect x="36" y="58" width="192" height="62" rx="11" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/></g>
+<defs><linearGradient id="wash-roms-light" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b26b00" stop-opacity="0.1"/><stop offset="1" stop-color="#b26b00" stop-opacity="0"/></linearGradient></defs>
+<rect x="36.5" y="58.5" width="191" height="44" rx="10.5" fill="url(#wash-roms-light)"/>
+<text x="132.0" y="80.5" font-size="11" font-weight="700" letter-spacing="1.3" fill="#b26b00" text-anchor="middle">GAMES/ROMS</text>
+<text x="132.0" y="101.5" font-size="16" font-weight="600" fill="#1f2328" text-anchor="middle">Your ROMs</text>
+<g filter="url(#lift)"><rect x="36" y="148" width="192" height="62" rx="11" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/></g>
+<defs><linearGradient id="wash-media-light" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b26b00" stop-opacity="0.1"/><stop offset="1" stop-color="#b26b00" stop-opacity="0"/></linearGradient></defs>
+<rect x="36.5" y="148.5" width="191" height="44" rx="10.5" fill="url(#wash-media-light)"/>
+<text x="132.0" y="162.0" font-size="11" font-weight="700" letter-spacing="1.3" fill="#b26b00" text-anchor="middle">GAMES/MEDIA</text>
+<text x="132.0" y="183.0" font-size="16" font-weight="600" fill="#1f2328" text-anchor="middle">Art and video</text>
+<text x="132.0" y="202.0" font-size="13" fill="#59636e" text-anchor="middle">optional</text>
+<g filter="url(#lift)"><rect x="36" y="238" width="192" height="62" rx="11" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/></g>
+<defs><linearGradient id="wash-lib-light" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7a4fd6" stop-opacity="0.1"/><stop offset="1" stop-color="#7a4fd6" stop-opacity="0"/></linearGradient></defs>
+<rect x="36.5" y="238.5" width="191" height="44" rx="10.5" fill="url(#wash-lib-light)"/>
+<text x="132.0" y="252.0" font-size="11" font-weight="700" letter-spacing="1.3" fill="#7a4fd6" text-anchor="middle">LIBRARY.JSON</text>
+<text x="132.0" y="273.0" font-size="16" font-weight="600" fill="#1f2328" text-anchor="middle">The catalogue</text>
+<text x="132.0" y="292.0" font-size="13" fill="#59636e" text-anchor="middle">optional</text>
+<g filter="url(#lift)"><rect x="288" y="78" width="192" height="92" rx="11" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/></g>
+<defs><linearGradient id="wash-scan-light" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f8f88" stop-opacity="0.1"/><stop offset="1" stop-color="#0f8f88" stop-opacity="0"/></linearGradient></defs>
+<rect x="288.5" y="78.5" width="191" height="44" rx="10.5" fill="url(#wash-scan-light)"/>
+<text x="384.0" y="98.5" font-size="11" font-weight="700" letter-spacing="1.3" fill="#0f8f88" text-anchor="middle">CATALOG.KT</text>
+<text x="384.0" y="119.5" font-size="16" font-weight="600" fill="#1f2328" text-anchor="middle">Scan</text>
+<text x="384.0" y="138.5" font-size="13" fill="#59636e" text-anchor="middle">shelves appear from a</text>
+<text x="384.0" y="155.5" font-size="13" fill="#59636e" text-anchor="middle">cache, then refresh</text>
+<g filter="url(#lift)"><rect x="288" y="226" width="192" height="74" rx="11" fill="#ffffff" stroke="#c4325e" stroke-width="1.4"/></g>
+<defs><linearGradient id="wash-rows-light" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c4325e" stop-opacity="0.1"/><stop offset="1" stop-color="#c4325e" stop-opacity="0"/></linearGradient></defs>
+<rect x="288.5" y="226.5" width="191" height="44" rx="10.5" fill="url(#wash-rows-light)"/>
+<text x="384.0" y="246.0" font-size="11" font-weight="700" letter-spacing="1.3" fill="#c4325e" text-anchor="middle">ROWS.KT</text>
+<text x="384.0" y="267.0" font-size="16" font-weight="600" fill="#1f2328" text-anchor="middle">Home rows</text>
+<text x="384.0" y="286.0" font-size="13" fill="#59636e" text-anchor="middle">picks, recents, players</text>
+<g filter="url(#lift)"><rect x="540" y="66" width="180" height="74" rx="11" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/></g>
+<defs><linearGradient id="wash-ra-light" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f8f88" stop-opacity="0.1"/><stop offset="1" stop-color="#0f8f88" stop-opacity="0"/></linearGradient></defs>
+<rect x="540.5" y="66.5" width="179" height="44" rx="10.5" fill="url(#wash-ra-light)"/>
+<text x="630.0" y="86.0" font-size="11" font-weight="700" letter-spacing="1.3" fill="#0f8f88" text-anchor="middle">13 SYSTEMS</text>
+<text x="630.0" y="107.0" font-size="16" font-weight="600" fill="#1f2328" text-anchor="middle">RetroArch</text>
+<text x="630.0" y="126.0" font-size="13" fill="#59636e" text-anchor="middle">core per system or game</text>
+<g filter="url(#lift)"><rect x="540" y="214" width="180" height="74" rx="11" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/></g>
+<defs><linearGradient id="wash-apps-light" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f8f88" stop-opacity="0.1"/><stop offset="1" stop-color="#0f8f88" stop-opacity="0"/></linearGradient></defs>
+<rect x="540.5" y="214.5" width="179" height="44" rx="10.5" fill="url(#wash-apps-light)"/>
+<text x="630.0" y="234.0" font-size="11" font-weight="700" letter-spacing="1.3" fill="#0f8f88" text-anchor="middle">3 SYSTEMS</text>
+<text x="630.0" y="255.0" font-size="16" font-weight="600" fill="#1f2328" text-anchor="middle">Standalone</text>
+<text x="630.0" y="274.0" font-size="13" fill="#59636e" text-anchor="middle">Flycast, Dolphin, PPSSPP</text>
+<g filter="url(#lift)"><rect x="750" y="66" width="174" height="74" rx="11" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/></g>
+<defs><linearGradient id="wash-state-light" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7a4fd6" stop-opacity="0.1"/><stop offset="1" stop-color="#7a4fd6" stop-opacity="0"/></linearGradient></defs>
+<rect x="750.5" y="66.5" width="173" height="44" rx="10.5" fill="url(#wash-state-light)"/>
+<text x="837.0" y="86.0" font-size="11" font-weight="700" letter-spacing="1.3" fill="#7a4fd6" text-anchor="middle">ON THE WAY OUT</text>
+<text x="837.0" y="107.0" font-size="16" font-weight="600" fill="#1f2328" text-anchor="middle">Resume state</text>
+<text x="837.0" y="126.0" font-size="13" fill="#59636e" text-anchor="middle">and a picture of it</text>
+<g filter="url(#lift)"><rect x="750" y="214" width="174" height="74" rx="11" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/></g>
+<defs><linearGradient id="wash-stats-light" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7a4fd6" stop-opacity="0.1"/><stop offset="1" stop-color="#7a4fd6" stop-opacity="0"/></linearGradient></defs>
+<rect x="750.5" y="214.5" width="173" height="44" rx="10.5" fill="url(#wash-stats-light)"/>
+<text x="837.0" y="234.0" font-size="11" font-weight="700" letter-spacing="1.3" fill="#7a4fd6" text-anchor="middle">STATS.JSON</text>
+<text x="837.0" y="255.0" font-size="16" font-weight="600" fill="#1f2328" text-anchor="middle">Time on screen</text>
+<text x="837.0" y="274.0" font-size="13" fill="#59636e" text-anchor="middle">Android usage events</text>
+</svg>
