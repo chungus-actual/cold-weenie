@@ -21,8 +21,8 @@ android {
         minSdk = 28
         // 28 on purpose: the emulators are handed plain file paths
         targetSdk = 28
-        versionCode = 1
-        versionName = "0.1.0"
+        versionCode = 2
+        versionName = "0.1.1"
         buildConfigField("String", "DATA_DIR", "\"${project.findProperty("data") ?: "ColdWeenie"}\"")
         buildConfigField("String", "LIBRARY", "\"${project.findProperty("library") ?: "Games,Hyperspin"}\"")
     }

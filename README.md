@@ -61,7 +61,7 @@ Tested on an NVIDIA SHIELD TV Pro, Android 9. APK in [Releases](https://github.c
 
 ```sh
 adb connect <tv-ip>:5555
-adb install -g cold-weenie-0.1.0.apk
+adb install -g cold-weenie-0.1.1.apk
 adb shell appops set io.github.chungus_actual.coldweenie GET_USAGE_STATS allow
 bash tools/setup_retroarch.sh <tv-ip>
 ```

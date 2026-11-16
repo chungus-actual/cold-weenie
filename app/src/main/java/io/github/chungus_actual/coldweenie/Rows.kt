@@ -102,8 +102,10 @@ object Rows {
         rows.add(0, Row(if (all.isEmpty()) "No games in ${Catalog.ROOT.name}/Roms yet" else "Tonight", listOf<Item>(Item.Spin(picks), Item.Search, Item.Stats) + tonight.map { Item.Play(it) }))
 
         played.firstOrNull()?.let { last ->
+            // score each game once: a random draw inside the sort key changes between comparisons and TimSort throws
             val like = picks.filter { it.genre == last.genre && it !== last }
-                .sortedByDescending { (if (it.sys === last.sys) .4f else 0f) + rnd.nextFloat() }.take(14)
+                .map { it to (if (it.sys === last.sys) .4f else 0f) + rnd.nextFloat() }
+                .sortedByDescending { it.second }.map { it.first }.take(14)
             if (like.isNotEmpty()) rows += Row("Because you played ${last.title}", like.map { Item.Play(it) })
         }
 
